@@ -59,4 +59,5 @@ To prevent such conflicts we isolate the bootstrap styles which would allow us t
 
 ## Download
 ##### - [Bootstrap V3 Css](https://raw.githubusercontent.com/SriharshaShesham/Isolated-Bootstrap/master/Bootstrap%20v3/bootstrap3.css)  
-##### - [Bootstrap V4 Css](https://raw.githubusercontent.com/SriharshaShesham/Isolated-Bootstrap/master/Bootstrap%20v3/bootstrap4.css)  
+##### - [Bootstrap V4 Css](https://raw.githubusercontent.com/SriharshaShesham/Isolated-Bootstrap/master/Bootstrap%20v4/bootstrap4.css)  
+##### - [Bootstrap V5 Css](https://raw.githubusercontent.com/SriharshaShesham/Isolated-Bootstrap/master/Bootstrap%20v5/bootstrap-5.css)  
